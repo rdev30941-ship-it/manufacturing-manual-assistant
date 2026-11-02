@@ -1,0 +1,1 @@
+# manufacturing-manual-assistant
