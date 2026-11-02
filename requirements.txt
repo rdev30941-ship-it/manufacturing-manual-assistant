@@ -1,0 +1,12 @@
+Django>=5.2,<5.3
+djangorestframework>=3.16,<4
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+PyMuPDF>=1.25
+sentence-transformers>=4.0
+faiss-cpu>=1.9
+numpy>=2.0
+gunicorn>=23.0
+whitenoise>=6.9
+requests>=2.32
+cryptography>=44.0
